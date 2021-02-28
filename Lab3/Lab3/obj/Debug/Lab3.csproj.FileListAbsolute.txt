@@ -1,2 +1,0 @@
-F:\C#_Mid\Lab3\Lab3\bin\Debug\Lab3.exe.config
-F:\C#_Mid\Lab3\Lab3\obj\Debug\Lab3.csprojResolveAssemblyReference.cache
