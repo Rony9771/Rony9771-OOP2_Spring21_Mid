@@ -1,0 +1,5 @@
+F:\C#_Mid\Class Work\Copy\Copy\bin\Debug\Copy.exe.config
+F:\C#_Mid\Class Work\Copy\Copy\bin\Debug\Copy.exe
+F:\C#_Mid\Class Work\Copy\Copy\bin\Debug\Copy.pdb
+F:\C#_Mid\Class Work\Copy\Copy\obj\Debug\Copy.exe
+F:\C#_Mid\Class Work\Copy\Copy\obj\Debug\Copy.pdb

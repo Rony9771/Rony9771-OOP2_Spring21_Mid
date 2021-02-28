@@ -1,0 +1,6 @@
+F:\C#_Mid\Class Work\Unique\Unique\bin\Debug\Unique.exe.config
+F:\C#_Mid\Class Work\Unique\Unique\bin\Debug\Unique.exe
+F:\C#_Mid\Class Work\Unique\Unique\bin\Debug\Unique.pdb
+F:\C#_Mid\Class Work\Unique\Unique\obj\Debug\Unique.exe
+F:\C#_Mid\Class Work\Unique\Unique\obj\Debug\Unique.pdb
+F:\C#_Mid\Class Work\Unique\Unique\obj\Debug\Unique.csprojResolveAssemblyReference.cache
